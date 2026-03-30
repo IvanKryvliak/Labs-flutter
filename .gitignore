@@ -1,0 +1,7 @@
+.dart_tool/
+build/
+.vscode/
+.idea/
+windows/flutter/
+windows/runner/Debug/
+windows/runner/Release/
